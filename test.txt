@@ -1,0 +1,18 @@
+total 88
+drwxrwxr-x 6 praveen praveen  4096 Oct  4 19:38 .
+drwxrwxr-x 6 praveen praveen    77 Oct  4 19:31 ..
+-rw-rw-r-- 1 praveen praveen  4459 Oct  4 19:31 404.html
+-rw-rw-r-- 1 praveen praveen  1226 Oct  4 19:31 apple-touch-icon-precomposed.png
+-rw-rw-r-- 1 praveen praveen   603 Oct  4 19:31 crossdomain.xml
+drwxrwxr-x 2 praveen praveen  4096 Oct  4 19:31 css
+-rw-rw-r-- 1 praveen praveen   766 Oct  4 19:31 favicon.ico
+drwxrwxr-x 2 praveen praveen  4096 Oct  4 19:31 fonts
+drwxrwxr-x 8 praveen praveen   152 Oct  4 19:37 .git
+-rw-rw-r-- 1 praveen praveen 29947 Oct  4 19:31 .htaccess
+-rw-rw-r-- 1 praveen praveen   191 Oct  4 19:31 humans.txt
+-rw-rw-r-- 1 praveen praveen  5154 Oct  4 19:31 index.html
+drwxrwxr-x 3 praveen praveen    50 Oct  4 19:31 js
+-rw-rw-r-- 1 praveen praveen   133 Oct  4 19:31 README.md
+-rw-rw-r-- 1 praveen praveen    32 Oct  4 19:31 robots.txt
+-rw-rw-r-- 1 praveen praveen   429 Oct  4 19:31 simple.html
+-rw-rw-r-- 1 praveen praveen     0 Oct  4 19:38 test.txt
